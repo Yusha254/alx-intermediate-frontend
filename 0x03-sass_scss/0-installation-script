@@ -1,0 +1,2 @@
+Install Sass Globally by running: 'npm install -g sass'.
+Confirm installation by checking the version: 'sass --version'.
