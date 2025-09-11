@@ -1,0 +1,11 @@
+$primary-color: #3D3D3D;
+
+body {
+    background-color: $primary-color;
+    margin: 0px;
+    padding: 0px;
+  p {
+        color: $primary-color;
+        margin: 10px; 
+    }
+}
